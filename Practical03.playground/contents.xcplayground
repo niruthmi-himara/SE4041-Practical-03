@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Exercise01'/>
+        <page name='Exercise02'/>
+        <page name='Exercise03'/>
+        <page name='Exercise04'/>
+        <page name='Exercise05'/>
+        <page name='Exercise06'/>
+        <page name='FinalChallenge'/>
+    </pages>
+</playground>
